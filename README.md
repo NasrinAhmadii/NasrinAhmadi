@@ -9,4 +9,4 @@
 **🔷 زبان ها:** Python | Php
 🔷 بازی سازی با موتور یونیتی
 **#امار گیت هاب من:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasrinAhmadii&show_icons=true&theme=radical)
